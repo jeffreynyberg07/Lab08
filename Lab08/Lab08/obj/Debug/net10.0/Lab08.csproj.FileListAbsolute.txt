@@ -1,0 +1,14 @@
+C:\Users\jeffrey.nyberg\Desktop\Lab08\Lab08\bin\Debug\net10.0\Lab08.exe
+C:\Users\jeffrey.nyberg\Desktop\Lab08\Lab08\bin\Debug\net10.0\Lab08.deps.json
+C:\Users\jeffrey.nyberg\Desktop\Lab08\Lab08\bin\Debug\net10.0\Lab08.runtimeconfig.json
+C:\Users\jeffrey.nyberg\Desktop\Lab08\Lab08\bin\Debug\net10.0\Lab08.dll
+C:\Users\jeffrey.nyberg\Desktop\Lab08\Lab08\bin\Debug\net10.0\Lab08.pdb
+C:\Users\jeffrey.nyberg\Desktop\Lab08\Lab08\obj\Debug\net10.0\Lab08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffrey.nyberg\Desktop\Lab08\Lab08\obj\Debug\net10.0\Lab08.AssemblyInfoInputs.cache
+C:\Users\jeffrey.nyberg\Desktop\Lab08\Lab08\obj\Debug\net10.0\Lab08.AssemblyInfo.cs
+C:\Users\jeffrey.nyberg\Desktop\Lab08\Lab08\obj\Debug\net10.0\Lab08.csproj.CoreCompileInputs.cache
+C:\Users\jeffrey.nyberg\Desktop\Lab08\Lab08\obj\Debug\net10.0\Lab08.dll
+C:\Users\jeffrey.nyberg\Desktop\Lab08\Lab08\obj\Debug\net10.0\refint\Lab08.dll
+C:\Users\jeffrey.nyberg\Desktop\Lab08\Lab08\obj\Debug\net10.0\Lab08.pdb
+C:\Users\jeffrey.nyberg\Desktop\Lab08\Lab08\obj\Debug\net10.0\Lab08.genruntimeconfig.cache
+C:\Users\jeffrey.nyberg\Desktop\Lab08\Lab08\obj\Debug\net10.0\ref\Lab08.dll
